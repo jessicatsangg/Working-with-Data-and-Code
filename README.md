@@ -52,7 +52,32 @@ To Do:
 * Add leaderboards to track progress over time.
 * Implement different workout modes or challenges for variety.
 
-## Acknowledgements 
+## References
+Berry, D. M. (2011). What Is Code? In The Philosophy of Software (pp. 29–63). Palgrave Macmillan UK.
+
+Ford, P. (2015, June 11). What is Code? Bloomberg. https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+
+Silva, K. D. (2023, June 29). OOP Concepts: Mastering Basics with Real-Life Examples for Easy Understanding. Medium. https://medium.com/@kalanamalshan98/oop-concepts-mastering-basics-with-real-life-examples-for-easy-understanding-part-1-da5b8fc21036
+
+Bifolco, J. (2022, October 26). A Guide to Image Compression. Unlimited Graphic Design Service. https://penji.co/a-guide-to-image-compression/
+
+Al Sweigart. (2015). Automate the Boring Stuff with Python. No Starch Press.
+
+Matthes, E. (2019). Python Crash Course (2nd ed.). No Starch Press
+
+The Python Coding Book (Online). Futurecoder.
+
+Python Programming MOOC 2023. Harvard CS50's Introduction to Programming with Python (Online).
+
+Chrvoje Engineering. (2023, March 19). How USB Flash Drive Works? [Video]. YouTube. https://www.youtube.com/watch?v=hy7_XC8hZ5c
+
+Kilpeläinen, J. (2016, April 17). Arduino core memory shield is ready and for sale – Jussi’s electronics projects. Archive.org. https://web.archive.org/web/20181117205911/https://jussikilpelainen.kapsi.fi/wordpress/?p=213
+
+Loose, S. (2021). Audio Bit Depth and Sample Rate Explained. iZotope. [Video]. YouTube. https://www.youtube.com/watch?v=xJKypZXc3B4
+
+The Visual 6502. (2012, January 8). Visual Transistor-Level Simulation of the 6502 CPU and Other Chips!. http://www.visual6502.org/JSSim/index.html
+
+
 
 ## Contact
 Created by Jessica - feel free to reach out at jessica.tsang@student.uts.edu.au
